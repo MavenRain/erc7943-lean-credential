@@ -1,8 +1,5 @@
 # ERC-7943 (uRWA) Formal Specification: Public Capability Credential
 
-> STATUS: anchored in Bitcoin block 953674 (2026-06-14).  Ready to publish once
-> the Author display name below is set.
-
 Author: Onyeka Obi (MavenRain), independent formal-verification engineer.  Contact: softwareengineerasaservant@isurvivable.cv.  Date: 2026-06-14.
 
 ## What this is
